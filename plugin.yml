@@ -1,0 +1,5 @@
+main: Fludixx\BWShop\Main
+api: 3.0.0
+name: Bedwars Shop
+description: "BWShop for Pocketmine MP"
+version: 1
