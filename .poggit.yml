@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/jsnfjsfjbwiea/Bedwars-Shop
+branches:
+- master
+projects:
+  Bedwars-Shop:
+    path: ""
+...
